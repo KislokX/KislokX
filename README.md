@@ -2,11 +2,11 @@
 
 <img align="right" alt="image" width="400" src="https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif">
 
-- 👀 I’m interested in: **Python, C#, Java, Minecraft Modding**
+- 👀 I’m interested in: **Python, Java, HTML, CSS**
 
-- 🌱 I’m currently learning: **Java**
+- 🌱 I’m currently learning: **Java and CSS**
 
-- 📫 How to reach me: **kislottax@gmail.com**
+- 📫 How to reach me: **joseig1323@hotmail.com**
 
 </p>
 
